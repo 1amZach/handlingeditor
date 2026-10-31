@@ -7,6 +7,7 @@ description 'Live handling editor with telemetry, presets and handling.meta expo
 version '1.0.0'
 author 'IamZach'
 discord 'https://discord.gg/agn'
+repository 'https://github.com/1amZach/handlingeditor'
 
 ui_page 'web/dist/index.html'
 
